@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "brianfestus",
+    "email": "brianfestus4@gmail.com"
+  },
+  "record": {
+    "CNAME": "sports-predictor-kappa.vercel.app"
+  },
+  "redirect": null,
+  "description": "Professional football predictions and tips for Africa - PredictZone",
+  "repo": "https://github.com/brianfestus/sports-predictor"
+}
